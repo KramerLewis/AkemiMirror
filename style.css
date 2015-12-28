@@ -1,0 +1,31 @@
+* {
+	color: white;
+	text-align: right;
+}
+body {
+	background-color: black;
+}
+
+#time {
+	font-size: 40px;
+}
+
+#date {
+	font-size: 25px;
+}
+
+#weather {
+	font-size: 35px;
+}
+
+#forecast {
+	font-size: 20px;
+}
+
+#player {
+	float:left;
+}
+
+button {
+	color: black;
+}
